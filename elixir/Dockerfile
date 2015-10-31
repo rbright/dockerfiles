@@ -1,5 +1,4 @@
 FROM buildpack-deps:trusty-curl
-
 MAINTAINER Ryan Bright <ryan@rbright.net>
 
 # Enable UTF-8 encoding

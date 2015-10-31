@@ -1,5 +1,4 @@
 FROM rbright/elixir:latest
-
 MAINTAINER Ryan Bright <ryan@rbright.net>
 
 # Set the Phoenix version
