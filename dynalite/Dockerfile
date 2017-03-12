@@ -16,4 +16,4 @@ ENV PORT 4567
 EXPOSE $PORT
 
 # Start the Dynalite server
-CMD dynalite --port $PORT --ssl false
+CMD dynalite --port $PORT
